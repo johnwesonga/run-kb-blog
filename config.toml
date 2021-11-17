@@ -1,0 +1,58 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'KettleBell and Run Blog'
+theme = "beautifulhugo"
+
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
+# ------
+# Markup
+# ------
+[markup]
+  # Set startLevel = 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
+
+# ------------
+# Sidebar menu
+# ------------
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 5
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/#about-me"
+
+
+
+  # --------------------
+  # Header configuration
+  # --------------------
+  # The link at the right of the header is customizable
+  # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
+  # By default, author's gravatar or author's picture is displayed.
+  #  url: /#search
+  #  icon: search
+  #  class: st-search-show-outputs
+  [params.header.rightLink]
+    class = ""
+    icon = ""
+    url = "/#about"
+
+  # --------------------
+  # Footer configuration
+  # --------------------
+  # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
+  #  [params.footer]
+  #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
