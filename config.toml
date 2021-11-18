@@ -6,7 +6,7 @@ paginate = 5
 
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:slug/"
 
 # ------
 # Markup
