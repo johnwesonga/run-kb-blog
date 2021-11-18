@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'KettleBell and Run Blog'
 theme = "beautifulhugo"
+paginate = 5
 
 
 [permalinks]
