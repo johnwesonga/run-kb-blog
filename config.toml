@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 
 
 [permalinks]
-  posts = "/:year/:month/:slug/"
+  posts = "/:year/:month/:day/:slug/"
 
 # ------
 # Markup

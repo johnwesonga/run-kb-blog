@@ -4,12 +4,12 @@ date: 2021-11-16T16:28:27-08:00
 draft: false
 ---
 
-# More
 
 - Born in 1981
 - Father of 3 girls
 - Based in the Bay Area but originally from Kenya
-- I work in tech
+
+<!--more-->
 
 **Stats**
 
