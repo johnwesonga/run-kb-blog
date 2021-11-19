@@ -14,6 +14,8 @@ One thing I noticed is that at some point my body was almost in autopilot, I fel
 
 I plan to run a [10K race](http://runwalnutcreek.com/) on December 11th but I was unsure whether I'd be able to pull it off. Now that I've completed one, it's given me the confidence to really do this!!
 
+Over the next 3 weeks I intend to do at least one 10-12k run per week.
+
 
 
 
