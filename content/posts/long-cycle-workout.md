@@ -1,6 +1,7 @@
 ---
 title: "Long Cycle Workout"
 date: 2021-11-17T11:34:25-08:00
+author: "JW"
 draft: false
 ---
 
