@@ -1,6 +1,7 @@
 ---
 title: "November Week3 Run2"
 date: 2021-11-16T21:06:26-08:00
+author: "JW"
 draft: false
 ---
 

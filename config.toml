@@ -1,8 +1,10 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'KettleBell and Run Blog'
-theme = "beautifulhugo"
+#theme = "beautifulhugo"
+theme = "tale"
 paginate = 5
+
 
 
 [permalinks]
@@ -57,3 +59,6 @@ paginate = 5
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   #  [params.footer]
   #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
+[taxonomies]
+    author = "JW"

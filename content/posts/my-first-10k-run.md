@@ -1,6 +1,7 @@
 ---
 title: "My First 10k Run"
 date: 2021-11-18T11:20:07-08:00
+author: "JW"
 draft: false
 ---
 
