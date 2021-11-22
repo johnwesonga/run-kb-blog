@@ -9,6 +9,8 @@ draft: false
 My workout today was a bit of a mix of everything which basically means I did a bunch of complexes. 
 <!--more-->
 
+![kettlebell](/kettlebell.jpeg)
+
 
 I warmed up first with some prying goblet squats, windmills, halos, round the world, squats and single leg deadlift.
 
