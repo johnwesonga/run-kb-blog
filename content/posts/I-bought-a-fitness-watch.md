@@ -8,6 +8,10 @@ author: "JW"
 I decided to buy myself (company paid for it as part of the wellness perk) a fitness watch
 <!--more-->
 
+![Garmin Vivoactive 4](/vivoactive4.jpg)
+
+
+
 I don't particularly care for watches, I find them to be a distraction and something else I must take care of on a regular basis like a phone.
 
 I can't do Kettlebell snatches or cleans with a watch on my wrist so that’s already a negative for me.

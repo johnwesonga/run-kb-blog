@@ -10,10 +10,15 @@ It was a cold and misty 5k run on Saturday.
 <!--more-->
 **Stats**
 
-Distance:
+Distance: 5.12km
 
-Time:
+Time: 34:50
 
-Pace:
+Avg Pace: 6:48/km
+
+Calories: 688 Cal
+
+Max Elevation: 67m
+
 ![Misty Morning Run](/morning_run.jpg)
 
