@@ -15,5 +15,5 @@ Distance:
 Time:
 
 Pace:
-![Misty Morning Run](/morning_run-min.jpg)
+![Misty Morning Run](/morning_run.jpg)
 
