@@ -1,7 +1,7 @@
 ---
 title: "Next Steps"
 date: 2021-11-27T09:13:53-08:00
-draft: true
+draft: false
 author: "JW"
 ---
 November has come to an end and I have to make some decisions on what I'll do next, but first a retrospective.

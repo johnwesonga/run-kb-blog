@@ -1,7 +1,7 @@
 ---
 title: "Foam Roller Magic"
 date: 2021-11-28T23:18:42-08:00
-draft: true
+draft: false
 author: "JW"
 ---
 
